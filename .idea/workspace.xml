@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="830e8faf-34ab-44d8-99c6-f89016110c17" name="Changes" comment="printed inverse array">
+    <list default="true" id="830e8faf-34ab-44d8-99c6-f89016110c17" name="Changes" comment="inverse string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/java/palindrome/JavaPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/palindrome/JavaPalindrome.java" afterDir="false" />
     </list>
@@ -80,12 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689597152420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inverse string">
+      <option name="closed" value="true" />
+      <created>1689599647686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689599647686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java palindrome repository started" />
     <MESSAGE value="printed inverse array" />
-    <option name="LAST_COMMIT_MESSAGE" value="printed inverse array" />
+    <MESSAGE value="inverse string" />
+    <option name="LAST_COMMIT_MESSAGE" value="inverse string" />
   </component>
 </project>
